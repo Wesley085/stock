@@ -27,8 +27,8 @@ Siga os passos abaixo para configurar o projeto localmente.
 Primeiro, clone o repositório do projeto para o seu ambiente local:
 
 ```bash
-git clone https://github.com/Igor-Si-Unimontes/BazarTec.git
-cd BazarTec
+git clone [https://github.com/Wesley085/stock.git]
+cd stock
 ```
 ### 2. Configuração do Ambiente
 
